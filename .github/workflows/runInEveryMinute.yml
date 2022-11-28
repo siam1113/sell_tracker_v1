@@ -1,10 +1,10 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages Every Minute
+name: Deploy static content to Pages Every 6 Minute
 
 on:
   push:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '*/6 * * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
