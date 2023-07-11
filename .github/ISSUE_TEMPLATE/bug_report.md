@@ -1,28 +1,38 @@
-## Bug Description
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-**Description:**
-[Provide a clear and concise description of the bug.]
+---
 
-**Steps to Reproduce:**
-1. 
-2. 
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**Expected Behavior:**
-[Describe what you expected to happen when performing the steps above.]
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**Actual Behavior:**
-[Describe what actually happened when performing the steps above.]
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-**Reproducible Test Case:**
-[If applicable, provide a sample code, repository, or detailed instructions to reproduce the bug.]
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**Screenshots:**
-[Include screenshots or images that help visualize the issue, if applicable.]
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-**Environment:**
-- Operating System: [Specify the OS you encountered the bug on, e.g., Windows 10, macOS 12.0.1]
-- Browser/Device: [Specify the browser and its version or the device you encountered the bug on, e.g., Google Chrome 92, iPhone 12]
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-**Additional Information:**
-[Include any additional information that may be relevant, such as error messages, console logs, or related GitHub issues.]
-
+**Additional context**
+Add any other context about the problem here.
